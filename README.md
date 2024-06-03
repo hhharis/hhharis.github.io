@@ -1,2 +1,1 @@
-# thinggoll.github.io
-Hi
+hello
